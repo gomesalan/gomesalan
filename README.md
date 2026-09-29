@@ -1,10 +1,10 @@
-### Hello there :wave:, I'm Alan!
+### Hi Everybody :wave:, I'm Alan!
 
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,gradle,postgres,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,sentry,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=py, sklearn, fastapi, pytorch, postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=aws, docker, git, github, postgres, pkl" />
   </a>
 </p>
 <br>
