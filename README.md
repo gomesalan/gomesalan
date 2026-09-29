@@ -6,20 +6,13 @@
 <br>
 
 <!-- Linguagens, Frameworks de Data Science & ML -->
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch,tensorflow,pandas" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch,tensorflow,pandas" /></p>
 
 <!-- MLOps, Bancos de Dados & APIs -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,aws,docker" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,aws,docker" /></p>
 
 <!-- Ferramentas & Ambientes de Desenvolvimento -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" /></p>
 
 <!-- Estatística, Análise de Dados & Experimentação -->
 <p align="center">
