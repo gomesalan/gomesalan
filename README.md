@@ -3,8 +3,6 @@
 > **Data Scientist & Machine Learning Engineer**  
 > Apaixonado por transformar dados em soluções inteligentes, construir pipelines de ML e implantar modelos em produção.
 
-<br>
-
 <!-- Linguagens, Frameworks de Data Science & ML -->
 <p align="center"><img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch,tensorflow,pandas" /></p>
 
@@ -13,6 +11,7 @@
 
 <!-- Ferramentas & Ambientes de Desenvolvimento -->
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" /></p>
+
 
 <!-- Estatística, Análise de Dados & Experimentação -->
 <p align="center">
