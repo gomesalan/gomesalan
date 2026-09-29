@@ -5,18 +5,22 @@
 
 <br>
 
+<!-- Linguagens, Frameworks de Data Science & ML -->
 <p align="center">
-  <!-- Linguagens, Frameworks de Data Science & ML -->
-  <img src="https://skillicons.dev/icons?i=py,r,cpp,sklearn,pytorch,tensorflow,pandas" /><br>
-  
-  <!-- MLOps, Bancos de Dados & APIs -->
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,mongodb,aws,docker" /><br>
-  
-  <!-- Ferramentas & Ambientes de Desenvolvimento -->
+  <img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch,tensorflow,pandas" />
+</p>
+
+<!-- MLOps, Bancos de Dados & APIs -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,aws,docker" />
+</p>
+
+<!-- Ferramentas & Ambientes de Desenvolvimento -->
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
 </p>
 
-<!-- Estatística, Análise de Dados & Experimentação (Shields.io) -->
+<!-- Estatística, Análise de Dados & Experimentação -->
 <p align="center">
   <img src="https://img.shields.io/badge/SciPy-8993C5?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Statsmodels-00599C?style=for-the-badge&logo=python&logoColor=white" />
