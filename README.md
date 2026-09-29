@@ -1,14 +1,22 @@
 ### Hi Everybody :wave:, I'm Alan!
 
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, sklearn, fastapi, pytorch, postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=aws, docker, git, github, postgres, pkl" />
-  </a>
-</p>
+> **Data Scientist & Machine Learning Engineer**  
+> Apixado por transformar dados em soluções inteligentes, construir pipelines de ML e implantar modelos em produção.
+
 <br>
 
+<p align="center">
+  <!-- Linguagens, Frameworks de Data Science & ML -->
+  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,pandas" /><br>
+  
+  <!-- MLOps, Bancos de Dados & APIs -->
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,aws,docker" /><br>
+  
+  <!-- Ferramentas & Ambientes de Desenvolvimento -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</p>
+
+<br>
 
 <div align="right">
     <a href="https://hits.sh/github.com/gomesalan/"><img alt="Hits" src="https://hits.sh/github.com/gomesalan.svg?style=for-the-badge&label=views&color=238c00&logo=github"/></a>
