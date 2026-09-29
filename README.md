@@ -6,6 +6,7 @@
 <br>
 
 <!-- Linguagens, Frameworks de Data Science & ML -->
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch,tensorflow,pandas" />
 </p>
