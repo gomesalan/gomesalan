@@ -4,14 +4,7 @@
 > Apaixonado por transformar dados em soluções inteligentes, construir pipelines de ML e implantar modelos em produção.
 
 <!-- Linguagens, Frameworks de Data Science & ML -->
-<p align="center"><img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch,pandas" /></p>
-
-<!-- MLOps, Bancos de Dados & APIs -->
-<p align="center"><img src="https://skillicons.dev/icons?i=fastapi,postgres,aws,docker" /></p>
-
-<!-- Ferramentas & Ambientes de Desenvolvimento -->
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,bash" /></p>
-
+<p align="center"><img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,pandas,fastapi,postgres,aws,docker,git,github,vscode,bash" /></p>
 
 <!-- Estatística, Análise de Dados & Experimentação -->
 <p align="center">
