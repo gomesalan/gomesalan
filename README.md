@@ -1,19 +1,28 @@
 ### Hi Everybody :wave:, I'm Alan!
 
 > **Data Scientist & Machine Learning Engineer**  
-> Apixado por transformar dados em soluções inteligentes, construir pipelines de ML e implantar modelos em produção.
+> Apaixonado por transformar dados em soluções inteligentes, construir pipelines de ML e implantar modelos em produção.
 
 <br>
 
 <p align="center">
   <!-- Linguagens, Frameworks de Data Science & ML -->
-  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,pandas" /><br>
+  <img src="https://skillicons.dev/icons?i=py,r,cpp,sklearn,pytorch,tensorflow,pandas" /><br>
   
   <!-- MLOps, Bancos de Dados & APIs -->
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,aws,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,mongodb,aws,docker" /><br>
   
   <!-- Ferramentas & Ambientes de Desenvolvimento -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</p>
+
+<!-- Estatística, Análise de Dados & Experimentação (Shields.io) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SciPy-8993C5?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-00599C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estat%C3%ADstica_%26_A%2FB_Testing-238C00?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0174DF?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-4169E1?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <br>
